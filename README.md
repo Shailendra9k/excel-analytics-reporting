@@ -77,16 +77,16 @@ This project portfolio was built to strengthen practical analytics skills releva
 # Screenshots
 
 ## Dashboard Overview
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](dashboard_overview.png)
 
 ## Workbook Analysis
-![Workbook Analysis](screenshots/workbook_analysis.png)
+![Workbook Analysis](workbook_analysis.png)
 
 ## Pivot Table Skills
-![Pivot Table Skills](screenshots/pivot_table_skills.png)
+![Pivot Table Skills](pivot_table_skills.png)
 
 ## Excel Skills Summary
-![Excel Skills](screenshots/excel_skills_summary.png)
+![Excel Skills](excel_skills_summary.png)
 
 ---
 
